@@ -4,5 +4,5 @@
 
 # I have chosen these configurations for my model as these were giving maximum accuracy and minimum loss in minimum no of iterations 
 
-# To test the code, download the dataset from https://www.kaggle.com/zalando-research/fashionmnist#fashion-mnist_test.csv 
+# To test the code, download the csv file from https://www.kaggle.com/zalando-research/fashionmnist#fashion-mnist_test.csv 
 and store it in a folder called fdata 
